@@ -1,0 +1,1 @@
+en este proyecto explicare mi historia aplicando el gitflow como modo de gestion de versiones
