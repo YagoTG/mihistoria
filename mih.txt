@@ -1,1 +1,14 @@
-Soy Ismael Santiago Trejo....27 a�os....licienciado en informatica...especialista en tecnologias computacionales...y maestro en tecnologias de la informacion...
+Soy Ismael Santiago Trejo, y me pueden deir yago.
+
+Tengo 27 años de edad -> y radico en el estado de hidalgo;
+
+|-- Egrese de la Universidad en el año 2016;
+
+|--/ Estudie en el Instituto Tecnologico Latinoamericano /--|
+
+|-- Desde el año 2018 soy Licienciado en Informatica. -->
+
+|-- En el mismo año acredite mi especialidad en Tecnologias Computacionales. --->
+
+|-- para el año 2019 obtuve mi maestria en Tecnologias de la Informacion. ---->
+
