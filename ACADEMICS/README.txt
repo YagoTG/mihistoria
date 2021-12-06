@@ -1,0 +1,1 @@
+En esta seccion cargo todo lo relevante a mi profesion y mis estudios

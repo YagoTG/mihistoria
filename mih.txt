@@ -18,9 +18,8 @@ Desde que recuerdo simpre me he identificado con la siguiente cita:
 
 -de Paul Samuelson
 
---| En mi trabajo anterior, me encontre con un articulo acerca de isac asimov donde mencionan una cita con la que me indentifico |---> 
+--| En mi trabajo anterior, me encontre con un articulo acerca de isac asimov donde mencionan... |---> 
 
-El dice: 
 
 
 "No habría podido escribir la variedad de libros que completé únicamente con el conocimiento que obtuve en la escuela.
@@ -28,7 +27,7 @@ El dice:
  de que tendría que esforzarme en ellos por mi miedo constante de malentender un aspecto que para alguien 
  experto en el tema le parecería una simpleza."
 
- --> con ello me inspira a nunca para de aprender |---
+ --> esas palabras inspira a nunca para de aprender |--- |y desde entonces supe que queria ser como el |----
 
  ---------------------/ OBJETIVOS /----------------------
 

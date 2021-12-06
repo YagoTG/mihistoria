@@ -1,0 +1,1 @@
+En este apartado coloco todos los aprendido para mi crecimiento profesional
