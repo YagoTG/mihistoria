@@ -1,0 +1,18 @@
+|-- una definicion de un profesional seria:
+
+El profesional es quien tiene conocimientos adquiridos mediante la experiencia, ética, valores,
+dignidad y respeto no necesariamente teniendo un título universitario.
+
+|--- de acuerdo a un articulo 
+
+|---/ Cómo ser un profesional exitoso: 6 consejos definitivos \----|
+
+1- Traza metas y planes. El saber a dónde vas es gran parte del camino. ...
+2- Forja una red de contactos profesionales. ...
+3- Desarrolla habilidades de comunicación. ...
+4- Tener experiencia internacional. ...
+5- Hablar otros idiomas. ...
+6- Invierte en tu educación.
+
+
+|->fuente: https://www.informationplanet.com.co/blog/como-ser-un-profesional-exitoso/
