@@ -36,3 +36,5 @@ Desde que recuerdo simpre me he identificado con la siguiente cita:
 --| Volverme un Desarrollador Competitivo.
 
 --| Fundar mi agencia digital.
+
+|--/ Quiero volverme un experto construyendo productos digitales /------|
